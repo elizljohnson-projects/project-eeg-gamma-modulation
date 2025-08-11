@@ -7,7 +7,7 @@ These scripts produce the results reported in:
 
 Jones, KT, Johnson, EL, Tauxe, ZS, Rojas, DC. Modulation of auditory gamma-band responses using transcranial electrical stimulation. _Journal of Neurophysiology_ 123 (2020). [DOI](https://doi.org/10.1152/jn.00003.2020)
 
-Project data are available on [OSF](https://doi.org/10.17605/OSF.IO/VCDWK).
+Project data are available on [OSF](https://doi.org/10.17605/OSF.IO/VCDWK). These data have been prepared for analysis as described in the publication.
 
 Publications or other papers using these scripts and/or data should cite the publication above.
 

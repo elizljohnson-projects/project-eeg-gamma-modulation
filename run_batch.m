@@ -1,6 +1,6 @@
 %% 1. download data
 
-% from: https://drive.google.com/drive/folders/1oHMnHdX7h10AstfWZrPvY3IP1pOW7U-X?usp=drive_link 
+% from OSF: https://doi.org/10.17605/OSF.IO/VCDWK 
 
 %% 2. run subject-level analyses
 

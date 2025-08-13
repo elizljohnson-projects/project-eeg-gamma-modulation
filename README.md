@@ -13,6 +13,7 @@ Publications or other papers using these scripts and/or data should cite the pub
 
 Software:
 - MATLAB 9.7 (R2019b; last tested with R2024b)
+  - Set General > MAT-Files > save -v7.3
 - Fieldtrip (last tested with fieldtrip-20250114) - [download](https://www.fieldtriptoolbox.org/download)
 
 Notes:

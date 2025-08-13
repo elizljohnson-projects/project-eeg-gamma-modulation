@@ -1,5 +1,4 @@
-# project-eeg-gamma-modulation
-**Modulation of auditory gamma-band responses using transcranial electrical stimulation**
+## Modulation of auditory gamma-band responses using transcranial electrical stimulation
 
 Noninvasive brain stimulation is used across clinical, commercial, and research applications to change the brain in hopes of changing behavior, yet we don't fully understand how it changes brain activity. Using scalp EEG, we delineate how two common brain stimulation techniques, transcranial alternating current stimulation (tACS) and transcranial direct current stimulation (tDCS), affect auditory gamma responses in healthy adults. Whereas gamma frequency-tuned tACS adjusts the magnitude and timing of auditory gamma responses, both tACS and tDCS strengthen the gamma phase connectome, which is disrupted in numerous neurological and psychiatric disorders and may be a target for intervention. 
 
